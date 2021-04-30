@@ -1,7 +1,5 @@
 # Silver medal solution for Kaggle competition
-# [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)
-
-https://www.kaggle.com/c/two-sigma-financial-news
+## [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news)
 
 [Leaderboard](https://www.kaggle.com/c/two-sigma-financial-news/leaderboard)
 
